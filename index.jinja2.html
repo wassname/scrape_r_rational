@@ -1,46 +1,127 @@
 <!doctype html>
 <html lang=en>
+
 <head>
-<meta charset=utf-8>
-<title>scraping reddit.com/r/rational recs</title>
-<link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/b-3.2.0/b-colvis-3.2.0/sc-2.4.3/sr-1.4.1/datatables.min.css" rel="stylesheet">
+    <meta charset=utf-8>
+    <title>scraping reddit.com/r/rational recs</title>
+    <!-- <link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/b-3.2.0/b-colvis-3.2.0/sc-2.4.3/sr-1.4.1/datatables.min.css" rel="stylesheet">
  
-<script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/b-3.2.0/b-colvis-3.2.0/sc-2.4.3/sr-1.4.1/datatables.min.js"></script>
+<script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/b-3.2.0/b-colvis-3.2.0/sc-2.4.3/sr-1.4.1/datatables.min.js"></script> -->
+
+    <!-- 
+<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.datatables.net/2.1.8/js/dataTables.js"></script>
+<script src="https://cdn.datatables.net/2.1.8/js/dataTables.bootstrap5.js"></script>
+<script src="https://cdn.datatables.net/buttons/3.2.0/js/dataTables.buttons.js"></script>
+<script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.bootstrap5.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.html5.min.js"></script>
+
+
+
+<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet"/>
+<link href="https://cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.css" rel="stylesheet"/>
+<link href="https://cdn.datatables.net/buttons/3.2.0/css/buttons.bootstrap5.css" rel="stylesheet"/> -->
+
+
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/buttons/3.2.0/css/buttons.bootstrap5.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/responsive/3.0.3/css/responsive.bootstrap5.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/scroller/2.4.3/css/scroller.bootstrap5.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/searchbuilder/1.8.1/css/searchBuilder.bootstrap5.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/searchpanes/2.3.3/css/searchPanes.bootstrap5.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/select/2.1.0/css/select.bootstrap5.min.css" rel="stylesheet">
+    <link href="https://cdn.datatables.net/staterestore/1.4.1/css/stateRestore.bootstrap5.min.css" rel="stylesheet">
+    
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
+    <script src="https://cdn.datatables.net/2.1.8/js/dataTables.bootstrap5.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/3.2.0/js/dataTables.buttons.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.bootstrap5.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.colVis.min.js"></script>
+    <script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.html5.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/3.0.3/js/dataTables.responsive.min.js"></script>
+    <script src="https://cdn.datatables.net/responsive/3.0.3/js/responsive.bootstrap5.js"></script>
+    <script src="https://cdn.datatables.net/scroller/2.4.3/js/dataTables.scroller.min.js"></script>
+    <script src="https://cdn.datatables.net/searchbuilder/1.8.1/js/dataTables.searchBuilder.min.js"></script>
+    <script src="https://cdn.datatables.net/searchbuilder/1.8.1/js/searchBuilder.bootstrap5.min.js"></script>
+    <script src="https://cdn.datatables.net/searchpanes/2.3.3/js/dataTables.searchPanes.min.js"></script>
+    <script src="https://cdn.datatables.net/searchpanes/2.3.3/js/searchPanes.bootstrap5.min.js"></script>
+    <script src="https://cdn.datatables.net/select/2.1.0/js/dataTables.select.min.js"></script>
+    <script src="https://cdn.datatables.net/staterestore/1.4.1/js/dataTables.stateRestore.min.js"></script>
+    <script src="https://cdn.datatables.net/staterestore/1.4.1/js/stateRestore.bootstrap5.min.js"></script>
 </head>
+
 <body>
-<p>scraping <a href="https://old.reddit.com/r/rational/">reddit.com/r/rational/</a></p>
-<a href="https://github.com/wassname/scrape_r_rational">source code</a>
-<table id="myTable" class="cell-border compact stripe"></table>
+    <p>scraping <a href="https://old.reddit.com/r/rational/">reddit.com/r/rational/</a></p>
+    <a href="https://github.com/wassname/scrape_r_rational">source code</a>
+    <div class="tabl">
+
+        <table id="myTable" class="table table-sm table-striped table-bordered nowrap" style="width:100%"></table>
+    </div>
+
 </body>
 <script>
-let data = {{data}}
+    let data = {{ data }}
 </script>
 <script>
-table = new DataTable('#myTable', {
-  data: data,
-  columns: {{columns}},
-  order: [[1, 'score']],
-
-  pageLength: 50,
-  responsive: true,
-  columnDefs: [
+var table = new DataTable('#myTable', {
+    responsive: true,
+    {# fixedColumns: false, #}
+    data: data,
+    columns: {{ columns }},
+    order: [[1, 'score']],
+    lengthMenu: [
+        [10, 25, 50, -1],
+        [10, 25, 50, 'All']
+    ],
+    // pageLength: 50,
+    columnDefs: [
         {
             targets: 1,
             className: 'noVis'
         }
     ],
-    layout: {
-        topStart: {
-            buttons: [
-                {
-                    extend: 'colvis',
-                    columns: ':not(.noVis)',
-                    popoverTitle: 'Column visibility selector'
-                }
-            ]
-        }
+        layout: {
+            topStart: {
+                buttons: [
+                    {
+                        extend: 'colvis',
+                        columns: ':not(.noVis)',
+                        popoverTitle: 'Column visibility selector'
+                    }
+                ]
+            },
+    },
+    initComplete: function () {
+        this.api()
+            .columns()
+            .every(function () {
+                let column = this;
+                let title = column.footer().textContent;
+ 
+                // Create input element
+                let input = document.createElement('input');
+                input.className = 'form-control';
+                input.placeholder = title;
+                column.footer().replaceChildren(input);
+ 
+                // Event listener for user input
+                input.addEventListener('keyup', () => {
+                    if (column.search() !== this.value) {
+                        column.search(input.value).draw();
+                    }
+                });
+            });
     }
 });
+// // Add event listeners to the two range filtering inputs
+$('#min').keyup( function() { table.draw(); } );
+$('#max').keyup( function() { table.draw(); } );
 
 </script>
+
 </html>
