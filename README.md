@@ -4,7 +4,7 @@
 
 scrapping reddit.com/r/rational and analytics
 
-- This project has data from r/rational in **markdown** that you can browse, see <./data/cache2/> for the data.
+- This project has data from r/rational in **markdown** that you can browse, see [./data/cache2/](./data/cache2/) for the data.
 
 - This project also has an html **table** you can see/download at https://wassname.github.io/scrape_r_rational/
 
