@@ -4,55 +4,53 @@
 <head>
     <meta charset=utf-8>
     <title>scraping reddit.com/r/rational recs</title>
-    <!-- <link href="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/b-3.2.0/b-colvis-3.2.0/sc-2.4.3/sr-1.4.1/datatables.min.css" rel="stylesheet">
- 
-<script src="https://cdn.datatables.net/v/dt/jq-3.7.0/dt-2.1.8/b-3.2.0/b-colvis-3.2.0/sc-2.4.3/sr-1.4.1/datatables.min.js"></script> -->
-
-    <!-- 
-<script src="https://code.jquery.com/jquery-3.7.1.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
-<script src="https://cdn.datatables.net/2.1.8/js/dataTables.js"></script>
-<script src="https://cdn.datatables.net/2.1.8/js/dataTables.bootstrap5.js"></script>
-<script src="https://cdn.datatables.net/buttons/3.2.0/js/dataTables.buttons.js"></script>
-<script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.bootstrap5.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
-<script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.html5.min.js"></script>
-
-
-
-<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet"/>
-<link href="https://cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.css" rel="stylesheet"/>
-<link href="https://cdn.datatables.net/buttons/3.2.0/css/buttons.bootstrap5.css" rel="stylesheet"/> -->
-
-
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.min.css" rel="stylesheet">
-    <link href="https://cdn.datatables.net/buttons/3.2.0/css/buttons.bootstrap5.min.css" rel="stylesheet">
-    <link href="https://cdn.datatables.net/responsive/3.0.3/css/responsive.bootstrap5.min.css" rel="stylesheet">
-    <link href="https://cdn.datatables.net/scroller/2.4.3/css/scroller.bootstrap5.min.css" rel="stylesheet">
-    <link href="https://cdn.datatables.net/searchbuilder/1.8.1/css/searchBuilder.bootstrap5.min.css" rel="stylesheet">
-    <link href="https://cdn.datatables.net/searchpanes/2.3.3/css/searchPanes.bootstrap5.min.css" rel="stylesheet">
-    <link href="https://cdn.datatables.net/select/2.1.0/css/select.bootstrap5.min.css" rel="stylesheet">
-    <link href="https://cdn.datatables.net/staterestore/1.4.1/css/stateRestore.bootstrap5.min.css" rel="stylesheet">
     
-    <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
-    <script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
-    <script src="https://cdn.datatables.net/2.1.8/js/dataTables.bootstrap5.min.js"></script>
-    <script src="https://cdn.datatables.net/buttons/3.2.0/js/dataTables.buttons.min.js"></script>
-    <script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.bootstrap5.min.js"></script>
-    <script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.colVis.min.js"></script>
-    <script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.html5.min.js"></script>
-    <script src="https://cdn.datatables.net/responsive/3.0.3/js/dataTables.responsive.min.js"></script>
-    <script src="https://cdn.datatables.net/responsive/3.0.3/js/responsive.bootstrap5.js"></script>
-    <script src="https://cdn.datatables.net/scroller/2.4.3/js/dataTables.scroller.min.js"></script>
-    <script src="https://cdn.datatables.net/searchbuilder/1.8.1/js/dataTables.searchBuilder.min.js"></script>
-    <script src="https://cdn.datatables.net/searchbuilder/1.8.1/js/searchBuilder.bootstrap5.min.js"></script>
-    <script src="https://cdn.datatables.net/searchpanes/2.3.3/js/dataTables.searchPanes.min.js"></script>
-    <script src="https://cdn.datatables.net/searchpanes/2.3.3/js/searchPanes.bootstrap5.min.js"></script>
-    <script src="https://cdn.datatables.net/select/2.1.0/js/dataTables.select.min.js"></script>
-    <script src="https://cdn.datatables.net/staterestore/1.4.1/js/dataTables.stateRestore.min.js"></script>
-    <script src="https://cdn.datatables.net/staterestore/1.4.1/js/stateRestore.bootstrap5.min.js"></script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/css/bootstrap.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/2.1.8/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/buttons/3.2.0/css/buttons.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/colreorder/2.0.4/css/colReorder.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/datetime/1.5.4/css/dataTables.dateTime.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/fixedcolumns/5.0.4/css/fixedColumns.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/fixedheader/4.0.1/css/fixedHeader.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/keytable/2.12.1/css/keyTable.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/responsive/3.0.3/css/responsive.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/rowgroup/1.5.1/css/rowGroup.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/rowreorder/1.5.0/css/rowReorder.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/scroller/2.4.3/css/scroller.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/searchbuilder/1.8.1/css/searchBuilder.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/searchpanes/2.3.3/css/searchPanes.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/select/2.1.0/css/select.bootstrap5.min.css" rel="stylesheet">
+<link href="https://cdn.datatables.net/staterestore/1.4.1/css/stateRestore.bootstrap5.min.css" rel="stylesheet">
+ 
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js"></script>
+<script src="https://cdn.datatables.net/2.1.8/js/dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/2.1.8/js/dataTables.bootstrap5.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/3.2.0/js/dataTables.buttons.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.bootstrap5.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.colVis.min.js"></script>
+<script src="https://cdn.datatables.net/buttons/3.2.0/js/buttons.html5.min.js"></script>
+<script src="https://cdn.datatables.net/colreorder/2.0.4/js/dataTables.colReorder.min.js"></script>
+<script src="https://cdn.datatables.net/datetime/1.5.4/js/dataTables.dateTime.min.js"></script>
+<script src="https://cdn.datatables.net/fixedcolumns/5.0.4/js/dataTables.fixedColumns.min.js"></script>
+<script src="https://cdn.datatables.net/fixedheader/4.0.1/js/dataTables.fixedHeader.min.js"></script>
+<script src="https://cdn.datatables.net/keytable/2.12.1/js/dataTables.keyTable.min.js"></script>
+<script src="https://cdn.datatables.net/responsive/3.0.3/js/dataTables.responsive.min.js"></script>
+<script src="https://cdn.datatables.net/responsive/3.0.3/js/responsive.bootstrap5.js"></script>
+<script src="https://cdn.datatables.net/rowgroup/1.5.1/js/dataTables.rowGroup.min.js"></script>
+<script src="https://cdn.datatables.net/rowreorder/1.5.0/js/dataTables.rowReorder.min.js"></script>
+<script src="https://cdn.datatables.net/scroller/2.4.3/js/dataTables.scroller.min.js"></script>
+<script src="https://cdn.datatables.net/searchbuilder/1.8.1/js/dataTables.searchBuilder.min.js"></script>
+<script src="https://cdn.datatables.net/searchbuilder/1.8.1/js/searchBuilder.bootstrap5.min.js"></script>
+<script src="https://cdn.datatables.net/searchpanes/2.3.3/js/dataTables.searchPanes.min.js"></script>
+<script src="https://cdn.datatables.net/searchpanes/2.3.3/js/searchPanes.bootstrap5.min.js"></script>
+<script src="https://cdn.datatables.net/select/2.1.0/js/dataTables.select.min.js"></script>
+<script src="https://cdn.datatables.net/staterestore/1.4.1/js/dataTables.stateRestore.min.js"></script>
+<script src="https://cdn.datatables.net/staterestore/1.4.1/js/stateRestore.bootstrap5.min.js"></script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pako/2.0.4/pako.min.js"></script>
 </head>
 
 <body>
@@ -65,7 +63,16 @@
 
 </body>
 <script>
-    let data = {{ data }}
+// Decompresses base64 encoded GZIP string. Retruns a string with original text.
+const decompress = (base64string) => {
+    const bytes = Uint8Array.from(atob(base64string), c => c.charCodeAt(0));
+    const decompressedBytes = pako.inflate(bytes);
+    return new TextDecoder().decode(decompressedBytes);
+}
+
+
+let dataGz = '{{ data }}'
+let data = JSON.parse(decompress(dataGz))
 </script>
 <script>
 var table = new DataTable('#myTable', {
@@ -84,16 +91,18 @@ var table = new DataTable('#myTable', {
             className: 'noVis'
         }
     ],
-        layout: {
-            topStart: {
-                buttons: [
-                    {
-                        extend: 'colvis',
-                        columns: ':not(.noVis)',
-                        popoverTitle: 'Column visibility selector'
-                    }
-                ]
-            },
+    search: {
+        // https://datatables.net/reference/type/DataTables.SearchOptions
+        regex: true,
+        caseInsensitive: true,
+        smart: true
+    },
+    layout: {
+        topStart: {
+            buttons: [
+                 'colvis', 'searchBuilder', 'copy', 'excel', 'pdf','createState', 'savedStates'
+            ], 
+        },
     },
     initComplete: function () {
         this.api()
@@ -107,22 +116,22 @@ var table = new DataTable('#myTable', {
                 input.className = 'form-control';
                 input.placeholder = title;
                 column.footer().replaceChildren(input);
+
+                let searchOptions = {
+                    // regex: true,
+                    caseInsensitive: true,
+                    smart: true
+                };
  
                 // Event listener for user input
                 input.addEventListener('keyup', () => {
                     if (column.search() !== this.value) {
-                        column.search(input.value).draw();
+                        column.search(input.value, searchOptions).draw();
                     }
                 });
             });
     },
-    layout: {
-        top1: 'searchBuilder'
-    }
-    dom: 'Qlfrtip',
-    searchOptions: {
-        regex: true,
-    },
+
 });
 // // Add event listeners to the two range filtering inputs
 $('#min').keyup( function() { table.draw(); } );
