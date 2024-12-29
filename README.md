@@ -46,7 +46,7 @@ First run <nbs/mjc_001_download.ipynb> to update the data in <data/cache2/>
 
 Then run <nbs/mjc_004_process.ipynb> to analyse the data and output <index.html>
 
-use nb 05 to run an llm from openrouter (costs around $50) and the results are... OK
+use <nbs/mjc_005_allm.ipynb> to run an llm from openrouter (costs around $50) and the results are... OK
 
 ## More info:
 
@@ -77,3 +77,6 @@ Table Columns
 - 'Disrecommendations': LLM
 - 'Why': LLM
 - 'Reviews': An LLM was asked to quote user reivews... it made some of them up
+
+
+You can see the actuall prompt in <nbs/mjc_005_allm.ipynb>, search for `class FictionInfo`
