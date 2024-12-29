@@ -48,4 +48,32 @@ Then run <nbs/mjc_004_process.ipynb> to analyse the data and output <index.html>
 
 use nb 05 to run an llm from openrouter (costs around $50) and the results are... OK
 
+## More info:
 
+Reddit Discussion: https://old.reddit.com/r/rational/comments/1hoonrc/v2_table_which_stories_have_been_linked_most/
+
+Table Columns
+
+    'Title': LLM's opinion about the title
+    '⬆️': Sum of comment score for associated links
+    'Comments': number of comments with the link in that we found and assocated with this row
+    '⭐Qual': LLM's opinion about the users opinion of quality of the fiction out of 10
+    '⭐Rat': LLM's opinion about the users opinion of the rating of the fiction
+    '⭐Writ': LLM on writing style
+    '⭐Plot': LLM on plot
+    '⭐Char': LLM on characters
+    '⭐World': LLM on wordbuilding
+    'Tags': LLM's opinion about the tags
+    'First Link': Date of the first link
+    'Last Link': Date of the last link
+    'Links': Number of associated links
+    'URLs': List of associated links
+    'Reviews Summary': An LLM was asked to summarize user reviews
+    'Threads': Links to all the threads!!
+    'Comments': Links to all the comments!!
+    'Similar': LLM's opinion about similar fictions
+    'Description': LLM's description
+    'Recommendations': LLM on why a r/rational user would reccomend
+    'Disrecommendations': LLM
+    'Why': LLM
+    'Reviews': An LLM was asked to quote user reivews... it made some of them up
