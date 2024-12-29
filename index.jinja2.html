@@ -70,7 +70,6 @@
 <script>
 var table = new DataTable('#myTable', {
     responsive: true,
-    {# fixedColumns: false, #}
     data: data,
     columns: {{ columns }},
     order: [[1, 'score']],
@@ -78,7 +77,7 @@ var table = new DataTable('#myTable', {
         [10, 25, 50, -1],
         [10, 25, 50, 'All']
     ],
-    // pageLength: 50,
+    pageLength: 20,
     columnDefs: [
         {
             targets: 1,
@@ -116,7 +115,14 @@ var table = new DataTable('#myTable', {
                     }
                 });
             });
+    },
+    layout: {
+        top1: 'searchBuilder'
     }
+    dom: 'Qlfrtip',
+    searchOptions: {
+        regex: true,
+    },
 });
 // // Add event listeners to the two range filtering inputs
 $('#min').keyup( function() { table.draw(); } );
