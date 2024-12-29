@@ -1,16 +1,15 @@
 # rrational
 
-![screenshot](docs/image.png)
+
 
 scrapping reddit.com/r/rational and analytics
 
-see https://raw.githubusercontent.com/NightMachinery/.shells/master/scripts/python/reddit/subreddit2org.py
+- This project has data from r/rational in **markdown** that you can browse, see <./data/cache2/> for the data.
 
-This project has data from r/rational in plan text that you can browse, see <./data/cache2/> for the data.
+- This project also has an html **table** you can see/download at https://wassname.github.io/scrape_r_rational/
 
-This project also has a table you can at https://wassname.github.io/scrape_r_rational/
+![screenshot](docs/image.png)
 
-https://wassname.github.io/scrape_r_rational/
 
 ## Project plan:
 
@@ -47,6 +46,6 @@ First run <nbs/mjc_001_download.ipynb> to update the data in <data/cache2/>
 
 Then run <nbs/mjc_004_process.ipynb> to analyse the data and output <index.html>
 
-05 to run an llm (costs around $50)
+use nb 05 to run an llm from openrouter (costs around $50) and the results are... OK
 
 
