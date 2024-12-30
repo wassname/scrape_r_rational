@@ -80,3 +80,11 @@ Table Columns
 
 
 You can see the actuall prompt in <nbs/mjc_005_allm.ipynb>, search for `class FictionInfo`
+
+
+For the Table UI I've included
+- smart search https://datatables.net/reference/option/search.smart
+- search builder https://datatables.net/extensions/searchbuilder/
+- save states
+- export to excel
+- column visibility
