@@ -9,6 +9,7 @@ scrapping reddit.com/r/rational and analytics
 - This project also has an html **table** you can see/download at https://wassname.github.io/scrape_r_rational/
 
 ![screenshot](docs/image.png)
+![filtering](docs/filter.png)
 
 ## More info:
 
