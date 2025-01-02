@@ -54,14 +54,24 @@
 </head>
 
 <body>
-    <p>scraping <a href="https://old.reddit.com/r/rational/">reddit.com/r/rational/</a></p>
-    <a href="https://github.com/wassname/scrape_r_rational">source code</a>
     <div class="tabl">
-
-        <table id="myTable" class="table table-sm table-striped table-bordered" style="width:100%"></table>
+        
+        <table id="myTable" class="table table-sm table-striped table-bordered  nowrap compact hover" style="width:100%"></table>
     </div>
-
+    
 </body>
+<footer>
+    <h3>scraping <a href="https://old.reddit.com/r/rational/">reddit.com/r/rational/</a></h3>
+    
+    <a href="https://github.com/wassname/scrape_r_rational">Source code</a> with FAQ, and column definition. <a href="https://old.reddit.com/r/rational/comments/1hoonrc/v2_table_which_stories_have_been_linked_most/">Reddit discussion</a>.</footer>
+<style>
+ul.dtr-details li span.dtr-data {
+    /* display: block;
+    margin: 0.25em 0; */
+    white-space: wrap;
+    /* word-wrap: break-word */
+}
+</style>
 <script>
 // Decompresses base64 encoded GZIP string. Retruns a string with original text.
 const decompress = (base64string) => {

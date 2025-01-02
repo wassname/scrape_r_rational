@@ -23,6 +23,9 @@ def export_df_2_html(df: pd.DataFrame = None, template: Path=Path( "../index.jin
     """
     """
 
+    # d = long_text_last(d)
+    # d = auto_transform_to_html(d)
+
     environment = jinja2.Environment()
     template_o = open("../index.jinja2.html").read()
     template_o = environment.from_string(template_o)

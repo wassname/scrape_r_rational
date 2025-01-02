@@ -10,7 +10,6 @@ scrapping reddit.com/r/rational and analytics
 
 ![screenshot](docs/image.png)
 
-
 ## More info:
 
 Reddit Discussion: https://old.reddit.com/r/rational/comments/1hoonrc/v2_table_which_stories_have_been_linked_most/

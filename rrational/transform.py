@@ -6,7 +6,7 @@ from collections import OrderedDict
 
 
 def join_uniq(x: list[str]):
-    return "\n".join(set(x))
+    return " - " + ("<br> - ".join(set(x)))
 
 
 def chain_lists(x: list[list[str]]):
@@ -17,12 +17,15 @@ def format_flair(author_flair_text):
         return f" <em>{author_flair_text}</em>"
     return ""
 
+prefix = "https://reddit.com"
 def commentmd2html(x: dict) -> str:
     """convert a comment to html"""
     body = markdown.markdown(x['body'])
     ts = pd.to_datetime(x['created_utc'], unit='s').strftime('%Y-%m-%d')
     flair = format_flair(x['author_flair_text'])
-    url = prefix + x['permalink']
+    url = x['permalink']
+    if url.startswith('/'):
+        url = prefix + url
     s = f"""<h3><a href="{url}">{x.get('author', 'anon')} [{x['score']:+}] {flair} <sup>{ts}</sup></a></h3>
 {body}
 """
@@ -37,7 +40,6 @@ def collapsibe(title, body):
 </details>
 """
 
-prefix = "https://reddit.com"
 def c2md(x):
     """md comment to html"""
     return collapsibe(x['id'], commentmd2html(x))
@@ -77,8 +79,38 @@ def urls2a(urls, sep=None):
 
 import numpy as np
 
+def long_text_last(df):
+    """
+    Sort the columns of a DataFrame, with the long text columns last.
+    """
+    # 1. get str columns
+    str_cols = df.select_dtypes(include='object').columns
+    # exclude title, tags
+    str_cols = str_cols.difference(['title',])
+    # 2. get max length of each column
+    max_len = df[str_cols].apply(lambda x: x.str.len().max())
+    # 3. sort by max length
+    max_len = max_len.sort_values(ascending=False)
+
+    # now sort the columns, with original order except for the ones in max_len
+    cols = list(df.columns)
+    for c in max_len.index:
+        cols.remove(c)
+    cols = cols + list(max_len.index)
+    return df[cols]
+
 def auto_transform_to_html(d):
+    """
+    transform columns to be good for html export
+    """
+    cols_special = ['title', 'tags']
+    # make title have a link to first url
+    d['title'] = d.apply(lambda x: f'<a href="{x["url"][0]}">{x["title"]}</a>', axis=1)
+    d['tags'] = d['tags'].apply(lambda x: ", ".join(x))
+
+
     for c in d.columns:
+        if c in cols_special: continue
         # if the cols is a lists of strings
         is_list = d[c].apply(lambda x: isinstance(x, (list, tuple, np.ndarray))).all()
         is_list_str = is_list and d[c].apply(lambda x: (x is None) or (len(x)==0) or isinstance(x[0], str)).all()
@@ -118,7 +150,5 @@ def auto_transform_to_html(d):
             d[c] = d[c].apply(lambda x: collapsibe('...', ujson_dumps(x, indent=2)))
 
 
-    # make title have a link to first url
-    d['title'] = d.apply(lambda x: f'<a href="{x["url"][0]}">{x["title"]}</a>', axis=1)
     return d
     
